@@ -20,3 +20,5 @@ right mouse: homing missile
 Bullet: -10hp
 A tank: 300hp
 </pre>
+
+![plot](https://github.com/adriankwan108/CSCI4120/blob/main/HW2%20-%20TankBattalion/hw2_demo.jpg)

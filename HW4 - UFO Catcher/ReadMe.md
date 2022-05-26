@@ -10,3 +10,5 @@ Key "E": descent=>grab=>ascent=>move=>release=>return to original
 
 *there is no wasd movement due to assignment specification.
 </pre>
+
+![plot](https://github.com/adriankwan108/CSCI4120/blob/main/HW4%20-%20UFO%20Catcher/hw4_demo.jpg)
